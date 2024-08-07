@@ -24,3 +24,4 @@ criado no seu computador.
 - `method.py`: Funções utilitárias para manipular a lista de livros e interações do usuário.
 - `variables_default.py`: Mensagens e variáveis padrão utilizadas no programa.
 - `log.py`: Gerenciamento do arquivo de log para registrar os livros emprestados.
+=======
